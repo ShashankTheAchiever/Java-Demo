@@ -1,0 +1,10 @@
+Fibonacci Series.
+Armstrong Number.
+Perfect number.
+Prime number.
+Factorial of a number.
+Reverse a string.
+Reverse a number.
+Palindrome number
+Palindrome string.
+Find duplicate characters in a string.
