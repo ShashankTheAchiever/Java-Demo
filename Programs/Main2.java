@@ -10,6 +10,7 @@ public class Main2 {
             num /= 10;
             
             sum += remainder;
+            System.out.println(sum);
 
         }
         System.out.println("Reverse num: " + reverseNum);
